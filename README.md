@@ -31,6 +31,6 @@ Here’s a glimpse of the app:
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/markr.git
+   git clone https://github.com/deepak4124/markr-app.git
    cd markr
 
